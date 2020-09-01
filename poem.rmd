@@ -1,6 +1,6 @@
 ---
 title: "git_00"
-author: "Your Name here"
+author: "Jeanette Serrano"
 date: "Year 2020"
 output: html_document
 ---
@@ -15,7 +15,18 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+poet Lewis Carroll#41 on top 500 poetsLewis CarrollPoemsCommentsStatsE-BooksBiographyShare on FacebookShare on Twitter
+Poems by Lewis Carroll : 35 / 81« prev. poemnext poem »
+Jabberwocky
+Poem by Lewis Carroll
 
+Autoplay next video
+'Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe:
+All mimsy were the borogoves,
+And the mome raths outgrabe.
+
+'Beware the Jabberwock, my son!
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
